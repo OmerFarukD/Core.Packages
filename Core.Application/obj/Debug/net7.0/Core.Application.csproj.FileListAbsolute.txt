@@ -1,0 +1,15 @@
+C:\Users\omerc\Desktop\MyProjects\nArchitecture\src\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.Application.deps.json
+C:\Users\omerc\Desktop\MyProjects\nArchitecture\src\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.Application.dll
+C:\Users\omerc\Desktop\MyProjects\nArchitecture\src\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.Application.pdb
+C:\Users\omerc\Desktop\MyProjects\nArchitecture\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.csproj.AssemblyReference.cache
+C:\Users\omerc\Desktop\MyProjects\nArchitecture\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerc\Desktop\MyProjects\nArchitecture\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.AssemblyInfoInputs.cache
+C:\Users\omerc\Desktop\MyProjects\nArchitecture\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.AssemblyInfo.cs
+C:\Users\omerc\Desktop\MyProjects\nArchitecture\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\omerc\Desktop\MyProjects\nArchitecture\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.dll
+C:\Users\omerc\Desktop\MyProjects\nArchitecture\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\refint\Core.Application.dll
+C:\Users\omerc\Desktop\MyProjects\nArchitecture\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.pdb
+C:\Users\omerc\Desktop\MyProjects\nArchitecture\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\ref\Core.Application.dll
+C:\Users\omerc\Desktop\MyProjects\nArchitecture\src\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.Persistence.dll
+C:\Users\omerc\Desktop\MyProjects\nArchitecture\src\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.Persistence.pdb
+C:\Users\omerc\Desktop\MyProjects\nArchitecture\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.csproj.CopyComplete
