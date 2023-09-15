@@ -13,3 +13,5 @@ C:\Users\omerc\Desktop\MyProjects\nArchitecture\src\corePackages\Core.Packages\C
 C:\Users\omerc\Desktop\MyProjects\nArchitecture\src\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.Persistence.dll
 C:\Users\omerc\Desktop\MyProjects\nArchitecture\src\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.Persistence.pdb
 C:\Users\omerc\Desktop\MyProjects\nArchitecture\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.csproj.CopyComplete
+C:\Users\omerc\Desktop\MyProjects\nArchitecture\src\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll
+C:\Users\omerc\Desktop\MyProjects\nArchitecture\src\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.CrossCuttingConcerns.pdb
